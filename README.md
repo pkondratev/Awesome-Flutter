@@ -1,6 +1,6 @@
-# Awesome Flutter
+# Awesome Flutter (RU)
 
-## Patterns
+## Паттерны проектирования
 
 ### Bloc
 
@@ -8,10 +8,17 @@
 
 ### Redux
 
-## Packages
+## Пакеты
 
-### Patterns implementations
+### Реализации паттернов
 
-### Others
+* Bloc
+  * bloc - набор интерфейсов для реализации моделей Cubit и Bloc
+  * flutter_bloc
+* Provider
+  * provider
+  * flutter_provider
+
+### Остальные
 
 * RxDart
